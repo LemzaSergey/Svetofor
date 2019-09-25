@@ -1,4 +1,4 @@
-//https://www.tinkercad.com/things/4ZsRTwrgbWh-svetoforv25/editel
+// https://www.tinkercad.com/things/4ZsRTwrgbWh 
 int led_red = 4;
 int led_yellow = 7;
 int led_green = 8;
